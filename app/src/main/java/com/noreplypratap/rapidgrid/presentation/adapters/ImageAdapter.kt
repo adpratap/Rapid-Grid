@@ -8,7 +8,7 @@ import androidx.recyclerview.widget.DiffUtil
 import androidx.recyclerview.widget.GridLayoutManager
 import androidx.recyclerview.widget.RecyclerView
 import com.noreplypratap.rapidgrid.R
-import com.noreplypratap.rapidgrid.presentation.model.ImageData
+import com.noreplypratap.rapidgrid.model.ImageData
 import com.noreplypratap.rapidgrid.presentation.viewmodels.RemoteViewModel
 
 

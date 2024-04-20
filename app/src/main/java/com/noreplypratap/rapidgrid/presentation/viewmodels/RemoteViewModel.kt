@@ -13,7 +13,7 @@ import com.noreplypratap.data.source.cache.MemoryCache
 import com.noreplypratap.domain.usecase.LocalArticleUseCase
 import com.noreplypratap.domain.usecase.RemoteArticleUseCase
 import com.noreplypratap.domain.util.Resource
-import com.noreplypratap.rapidgrid.presentation.model.ImageData
+import com.noreplypratap.rapidgrid.model.ImageData
 import dagger.hilt.android.lifecycle.HiltViewModel
 import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.launch

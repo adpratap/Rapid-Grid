@@ -1,4 +1,4 @@
-package com.noreplypratap.rapidgrid.presentation.model
+package com.noreplypratap.rapidgrid.model
 
 import android.graphics.Bitmap
 
