@@ -11,9 +11,10 @@ To build and run the project locally, ensure you have the following environment:
 - Target SDK: 34
 - JVM Target: 1.8
 
-If you encounter build problems, add the following dependency to your project's `build.gradle` file:
-```groovy
-"implementation 'androidx.work:work-runtime-ktx:2.7.1"
 
-Thank You 
+
+If you encounter build problems, add the following dependency :
+  > "implementation 'androidx.work:work-runtime-ktx:2.7.1"
+
+
 
